@@ -1,21 +1,21 @@
-# Filament Spatie Laravel Health
+# certifiedfreshevents
 
-[![PHP Version Require](https://poser.pugx.org/shuvroroy/filament-spatie-laravel-health/require/php)](https://packagist.org/packages/shuvroroy/filament-spatie-laravel-health)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/shuvroroy/filament-spatie-laravel-health/run-tests.yml?branch=main&label=tests)](https://github.com/shuvroroy/filament-spatie-laravel-health/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![Latest Stable Version](https://poser.pugx.org/shuvroroy/filament-spatie-laravel-health/v)](https://packagist.org/packages/shuvroroy/filament-spatie-laravel-health)
-[![Total Downloads](https://poser.pugx.org/shuvroroy/filament-spatie-laravel-health/downloads)](https://packagist.org/packages/shuvroroy/filament-spatie-laravel-health)
-[![License](https://poser.pugx.org/shuvroroy/filament-spatie-laravel-health/license)](https://packagist.org/packages/shuvroroy/filament-spatie-laravel-health)
+[![PHP Version Require](https://poser.pugx.org/shuvroroy/certifiedfreshevents/require/php)](https://packagist.org/packages/shuvroroy/certifiedfreshevents)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/shuvroroy/certifiedfreshevents/run-tests.yml?branch=main&label=tests)](https://github.com/shuvroroy/certifiedfreshevents/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![Latest Stable Version](https://poser.pugx.org/shuvroroy/certifiedfreshevents/v)](https://packagist.org/packages/shuvroroy/certifiedfreshevents)
+[![Total Downloads](https://poser.pugx.org/shuvroroy/certifiedfreshevents/downloads)](https://packagist.org/packages/shuvroroy/certifiedfreshevents)
+[![License](https://poser.pugx.org/shuvroroy/certifiedfreshevents/license)](https://packagist.org/packages/shuvroroy/certifiedfreshevents)
 
 This package provides a Filament page that you can monitor the health of your application by registering checks using the [spatie/laravel-health](https://spatie.be/docs/laravel-health/v1/introduction) package.
 
-<img width="1486" alt="Screenshot 2023-08-04 at 10 06 01 PM" src="https://github.com/shuvroroy/filament-spatie-laravel-health/assets/21066418/fe0b9b55-04ef-4ea9-b89f-bd6e0cf0964a">
+<img width="1486" alt="Screenshot 2023-08-04 at 10 06 01 PM" src="https://github.com/shuvroroy/certifiedfreshevents/assets/21066418/fe0b9b55-04ef-4ea9-b89f-bd6e0cf0964a">
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require shuvroroy/filament-spatie-laravel-health
+composer require shuvroroy/certifiedfreshevents
 ```
 
 This package can store health check results [in various ways](https://spatie.be/docs/laravel-health/v1/storing-results/general). When using the EloquentHealthResultStore the check results will be stored in the database. To create the health_check_result_history_items table, you must create and run the migration.
