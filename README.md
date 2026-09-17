@@ -1,4 +1,4 @@
-# TinyTerminal
+# utilities
 
 [![PHP Version Require](https://poser.pugx.org/shuvroroy/certifiedfreshevents/require/php)](https://packagist.org/packages/shuvroroy/certifiedfreshevents)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/shuvroroy/certifiedfreshevents/run-tests.yml?branch=main&label=tests)](https://github.com/shuvroroy/certifiedfreshevents/actions?query=workflow%3Arun-tests+branch%3Amain)
